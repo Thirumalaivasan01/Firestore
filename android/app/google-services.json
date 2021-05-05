@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085152691604",
+    "firebase_url": "https://fir-example-9c48e.firebaseio.com",
+    "project_id": "fir-example-9c48e",
+    "storage_bucket": "fir-example-9c48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085152691604:android:631cb11349812e91437b81",
+        "android_client_info": {
+          "package_name": "com.tailermade.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085152691604-vsh4nacqi7h4oqpddma260ck1jqa89k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMg1z6-bEbWBfq6ekmiFTOtt2k1DTrZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085152691604-vsh4nacqi7h4oqpddma260ck1jqa89k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
